@@ -1,0 +1,20 @@
+h1.bio{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}p.bio{
+    font-size: xx-large;
+    text-decoration: underline;
+
+}div.bio{
+    text-align: center;
+    margin: auto;
+
+}body{
+    background-color: rgba(0, 0, 0, 0.726);
+
+}img.bio{
+    width: 320px;
+    height: 270px;
+    border-radius: 50%;
+
+}
