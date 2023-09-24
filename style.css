@@ -58,10 +58,12 @@ h1.bio{
     border-radius: 50%;
     margin: auto 0 20px;
     border: 2px solid white;
+
+    
 }div.container p,
 div.container2 p,
 div.container3 p{
-    margin: 50px 200px 50px 200px;
+    margin: 50px 300px 50px 300px;
     text-align: justify;
     font-size: 1.5em;
 }
@@ -76,6 +78,8 @@ hr.linhacontainer{
 .title{
     margin: 30px auto;
     text-align: center;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }strong{
     text-decoration: underline;
 }.allcontainer{
@@ -97,10 +101,30 @@ hr.linhacontainer{
     border-radius: 20px;
     display: block;
 
+}img.hackers{
+    width: 300px;
+    margin: auto;
+    display: block;
+    border: 2px solid black;
+    border-radius: 20px;
+
+}img.vida{
+    width: 600px;
+    margin: auto;
+    display: block;
+    border: 2px solid rgba(0, 0, 255, 0.411);
+    border-radius: 20px;
+
 }img.filmes{
     width: 600px;
     height: 350px;
 }.listafilme{
     display: flex;
     justify-content: center;
+}p.curious{
+    margin: auto;
+    text-align: center;
+}div.container p.curious{
+    text-align: center;
+    font-size: 1.8em;
 }
